@@ -1,3 +1,3 @@
 alx files manager collab project 
-Nana Kwame
+Nana Kwame A.A
 Ezeh Samuel
