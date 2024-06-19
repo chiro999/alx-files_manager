@@ -1,3 +1,3 @@
-## alx-files_manager
-Nana Kwame A.A
+## alx-files_manager Collab Project
+Nana Kwame A-A
 Ezeh Samuel C.
